@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there 
+
+## Languages
+[![languages](https://skillicons.dev/icons?i=md,py,java,cpp,c,mysql)](https://skillicons.dev)
+
+## Tools & Editors
+[![editors](https://skillicons.dev/icons?i=sublime,vscode,replit,git,docker)](https://skillicons.dev)
+
+
 
 <!--
 **paolo-boccaccio/paolo-boccaccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
