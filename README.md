@@ -1,3 +1,5 @@
+<div align="center">
+  
 # Hi there 
 I am **Paolo Boccaccio** and I study **Computer Science** at **University of Bari Aldo Moro**. These are the main programming languages and tools I’ve used during my studies and personal projects. Most of them were learned through a combination of **academic coursework** and hands-on **experience**.
 
@@ -7,7 +9,7 @@ I am **Paolo Boccaccio** and I study **Computer Science** at **University of Bar
 ### Tools & Editors
 [![editors](https://skillicons.dev/icons?i=sublime,vscode,replit,git,docker)](https://skillicons.dev)
 
-
+</div>
 
 <!--
 **paolo-boccaccio/paolo-boccaccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
