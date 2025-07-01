@@ -1,4 +1,4 @@
-## Hi there 
+# Hi there 
 I am **Paolo Boccaccio** and I study **Computer Science** at **University of Bari Aldo Moro**. These are the main programming languages and tools I’ve used during my studies and personal projects. Most of them were learned through a combination of **academic coursework** and hands-on **experience**.
 
 ### Languages
